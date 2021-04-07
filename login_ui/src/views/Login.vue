@@ -17,7 +17,7 @@
                             <input class="form-control" id="password-field" type="password" placeholder="Enter password">
                         </div>
                         <div class="form-group text-center">
-                            <p >Forgot password?<span><a href="#">  Recover hier</a><img class="icon" src="../assets/lock.png" alt=""></span></p>
+                            <p >Forgot password?<span><a href="#">  Recover here</a><img class="icon" src="../assets/lock.png" alt=""></span></p>
                         </div>
                         <br>
                         <br>
